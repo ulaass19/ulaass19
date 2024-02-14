@@ -11,7 +11,7 @@ Skills: Java | Kotlin | Jetpack Compose | Swift | PHP
 - 📫 How to reach me: E-mail : mullaass19@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ulaass19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/muhammet-ulaş-çiçek-2b9a99227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:23403056)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/muhammet-ulaş-çiçek-2b9a99227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:23403056)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ulaass19)](https://github.com/ryo-ma/github-profile-trophy)
 
